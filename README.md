@@ -7,5 +7,5 @@
   <li>Authentication with Flask</li>
   <li>CRUD operations</li>
   <li>Bootstrap for built-in components</li>
-  <li>SQLite for simplicity</li>
+  <li>SQLite and SQLAlchemy</li>
 </ul>
